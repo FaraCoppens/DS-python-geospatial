@@ -1,4 +1,4 @@
 Hallo wij zijn Fara en Tim
 Dit een test text betand
 hiermee leren we git
-Vooal de git changes zijn belangrijk
+Vooral de git changes zijn belangrijk
